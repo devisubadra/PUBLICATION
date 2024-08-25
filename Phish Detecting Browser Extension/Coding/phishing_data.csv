@@ -1,0 +1,16 @@
+url,label
+"http://example.com",0
+"https://securebanking.com",0
+"http://phishingwebsite.com",1
+"https://trustedsite.org",0
+"http://fake-login-page.com",1
+"https://realwebsite.com",0
+"http://suspicious-link.net",1
+"https://genuinepage.edu",0
+"http://malicious-site.org",1
+"https://authentic-domain.com",0
+"http://phishing-scam.com",1
+"https://official-site.com",0
+"http://fraudulent-url.biz",1
+"https://safe-site.co",0
+"http://deceptive-link.info",1
